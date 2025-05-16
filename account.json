@@ -1,8 +1,24 @@
 {
     "users": [
         {
-            "email": "",
-            "password": "焦土作戦"
+            "email": "abc",
+            "password": "abc"
+        },
+        {
+            "email": "\u305f\u3074",
+            "password": "tapi"
+        },
+        {
+            "email": "tapisan",
+            "password": "tapi"
+        },
+        {
+            "email": "mod",
+            "password": "tapi"
+        },
+        {
+            "email": "tapimods",
+            "password": "abc"
         }
     ]
 }
