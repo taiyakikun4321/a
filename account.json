@@ -1,24 +1,8 @@
 {
     "users": [
         {
-            "email": "焦",
-            "password": "焦"
-        },
-        {
-            "email": "焦土",
-            "password": "焦土"
-        },
-        {
-            "email": "焦土作",
-            "password": "焦土作"
-        },
-        {
             "email": "焦土作戦",
             "password": "焦土作戦"
-        },
-        {
-            "email": "焦土作戦実行",
-            "password": "焦土作戦実行"
         }
     ]
 }
