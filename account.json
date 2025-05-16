@@ -1,7 +1,8 @@
 {
     "users": [
         {
-            "password": "ddd"
+            "email": "",
+            "password": "焦土作戦"
         }
     ]
 }
