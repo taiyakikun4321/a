@@ -3,6 +3,10 @@
         {
             "email": "a",
             "password": "a"
+         },
+        {
+            "email": "焦土作戦",
+            "password": "焦土作戦"
         }
     ]
 }
